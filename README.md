@@ -2,5 +2,4 @@
 ------------
 사용될 것 같은 프로그램이나 언어
 ------------
-java, python, c, html
-css
+java, python, c, html, css
